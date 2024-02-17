@@ -1,0 +1,5 @@
+@import "path/to/node_modules/tailwindcss/dist/tailwind.min.css";
+
+.font-protest-guerrilla {
+    font-family: "Protest Guerrilla", sans-serif;
+}

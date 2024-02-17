@@ -1,0 +1,10 @@
+/* public/css/app.css */
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Tambahkan kustomisasi CSS Anda di sini */
+.font-protest-guerrilla {
+    font-family: "Protest Guerrilla", sans-serif;
+}
